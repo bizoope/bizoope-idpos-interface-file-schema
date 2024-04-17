@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as l,V as d}from"./chunks/framework.PRaOemWR.js";const o=JSON.parse('{"title":"BiZOOPe | 連携ファイルフォーマット定義書","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),n={name:"index.md"},a=d("",63),i=[a];function s(g,r,y,x,c,f){return l(),e("div",null,i)}const _=t(n,[["render",s]]);export{o as __pageData,_ as default};
