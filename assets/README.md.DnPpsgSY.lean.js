@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ag as s}from"./chunks/framework.BPCCVu80.js";const _=JSON.parse('{"title":"連携ファイルフォーマット定義ドキュメント生成","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),c={name:"README.md"};function l(d,e,r,i,p,n){return o(),t("div",null,e[0]||(e[0]=[s("",9)]))}const m=a(c,[["render",l]]);export{_ as __pageData,m as default};
