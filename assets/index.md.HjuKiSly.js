@@ -1,0 +1,1 @@
+import{ah as e,c as t,o as a}from"./chunks/framework.qa7-uIhB.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"},d=Object.assign(r,{setup(o){return e().go("/v1"),(n,c)=>(a(),t("div"))}});export{_ as __pageData,d as default};

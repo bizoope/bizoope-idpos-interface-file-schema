@@ -1,0 +1,3 @@
+company_code,supplier_code,supplier_name,shiiresaki_code,ordering_method,host_created_on,host_updated_on,host_output_at,is_deleted
+drg,S001,取引先A,,,20220122,20220122,20220122000000,0
+drg,S002,取引先B,,,20220122,20220122,20220122000000,0
